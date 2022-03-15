@@ -8,15 +8,17 @@ The principle behind this is to treat messaging as similarly to an IRL conversat
 
 ## installation:
 Requires Tkinter (pip install tkinter) and PIL (pip install pillow).
+
 Includes php files and instructions for hosting on your own SQL server if you want to (preferable, for your own security)
 
 
 # THIS IS A WIP
 
-##To-do list:
+## To-do list:
 - Add admin privileges
 - Add admin commands
 - UX stuff
 - Probably other things
+
 
 
